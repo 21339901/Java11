@@ -49,6 +49,7 @@ class CStu implements Data,Test{
 	
 	public void show() {
 		showData();
+		showScore();
 		System.out.println("學期成績= "+calcu());
 	}
 }
