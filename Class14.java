@@ -1,6 +1,6 @@
-package hibiki;
+package Java11;
 
-public class Main {
+public class Class14 {
 	
 	public static void main(String[] args) {
 			CCircle cir = new CCircle(8,6,2);
